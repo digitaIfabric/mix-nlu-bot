@@ -8,5 +8,4 @@ templates.js
 configuration.js
 JavaScript/configuration.js
 Python/creds.json
-Python/creds.schema.json
-creds.jsoncreds.schema.json
+creds.json
