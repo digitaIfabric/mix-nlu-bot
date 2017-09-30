@@ -5,5 +5,8 @@ composer.phar
 composer.lock
 .DS_Store
 templates.js
-configutation.js
-public/app/configutation.js
+configuration.js
+JavaScript/configuration.js
+Python/creds.json
+Python/creds.schema.json
+creds.jsoncreds.schema.json
